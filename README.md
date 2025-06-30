@@ -20,7 +20,6 @@ This model was created as part of a "smart method training" assignment. It demon
 - The project is shared here for educational purposes. It can be opened using any CAD software that supports STEP files.
 
 ## 📸 Design Preview
-You can see sum pictures for the model here:
 ![Preview](arm-pictures.jpg)
 
 ---
