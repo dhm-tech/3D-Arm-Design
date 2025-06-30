@@ -26,5 +26,5 @@ You can see sum pictures for the model here:
 ---
 ## 👤 Author
 > Designed by: [Abdulrahman Qutah]  
-> Date: [June 2025]
+> Date: [30 June 2025]
 
