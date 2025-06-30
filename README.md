@@ -17,7 +17,7 @@ This model was created as part of a "smart method training" assignment. It demon
 
 ## 📸 Preview
 You can see sum pictures for the model here:
-![Preview](CAD-file/arm-pictires.jpg)
+![Preview](arm-pictires.jpg)
 
 ---
 
